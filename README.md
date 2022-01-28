@@ -16,11 +16,11 @@ chmod +x termux-ngrok.sh
 ### Скриншоты
 
 <p align="centre">
-<img src="https://i.imgur.com/86lzmIf.png" alt="Script">
+<img src="https://ibb.co/wQrmMbY" alt="Script">
 </p>
 
 <p align="centre">
-<img src="https://i.imgur.com/sRb2y4P.png" alt="Script">
+<img src="https://ibb.co/nnwQtvV" alt="Script">
 </p>
 
 <p align="centre">
