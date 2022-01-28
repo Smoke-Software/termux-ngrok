@@ -20,11 +20,11 @@ chmod +x termux-ngrok.sh
 </p>
 
 <p align="centre">
-<img src="https://ibb.co/nnwQtvV" alt="Script">
+<img src="https://raw.githubusercontent.com/Smoke-Software/termux-ngrok/main/Screenshot_20220128-132114.png" alt="Script">
 </p>
 
 <p align="centre">
-<img src="https://i.imgur.com/m80I9UB.png" alt="Script">
+<img src="https://raw.githubusercontent.com/Smoke-Software/termux-ngrok/main/photo_2022-01-28_13-26-34.jpg" alt="Script">
 </p>
 
 
