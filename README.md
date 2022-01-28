@@ -16,10 +16,6 @@ chmod +x termux-ngrok.sh
 ### Скриншоты
 
 <p align="centre">
-<img src="https://ibb.co/wQrmMbY" alt="Script">
-</p>
-
-<p align="centre">
 <img src="https://raw.githubusercontent.com/Smoke-Software/termux-ngrok/main/Screenshot_20220128-132114.png" alt="Script">
 </p>
 
